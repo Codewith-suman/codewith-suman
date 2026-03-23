@@ -1,9 +1,13 @@
+# Hi there! I’m Suman Kushwaha 👋
+
+<!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:EEFF00,100:a82da8&text=Suman%20Kushwaha&fontAlign=50&fontAlignY=40&animation=twinkling&fontSize=80&desc=Future%20Cybersecurity%20%26%20AI%20Engineer&descSize=20&descAlign=50&descAlignY=65" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Journey;Learning+and+Building+Secure+Systems;Creating+AI+and+Web+Projects;From+Nepal+with+passion+for+Cybersecurity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Future+Cybersecurity+%26+AI+Engineer;Building+Laravel+Web+Projects;From+Nepal+with+passion+for+Tech)](https://git.io/typing-svg)
 </p>
 
 ---
@@ -13,9 +17,9 @@
 🔥 Future **Cybersecurity & AI Engineer**  
 🌍 Based in **Nepal 🇳🇵**  
 🎓 Pursuing **B.Sc. CSIT**  
-🚀 Working on **Laravel Full Stack Development**  
-💡 Building projects like **Home/Flat/Room Finder**  
-📚 Learning and exploring **Cybersecurity, AI, and Web Development**
+💻 Working on **Laravel Full Stack Development**  
+🌱 Currently building **Home/Flat/Room Finder Website**  
+📚 Learning and exploring **Cybersecurity, AI, and Web Development**  
 
 ---
 
@@ -43,14 +47,14 @@
 ## 🚀 Projects
 
 ### 🏠 Home/Flat/Room Finder Website
-🔗 [https://ktmsewa.nest.net.np](https://ktmsewa.nest.net.np)
+🔗 [Live Site](https://ktmsewa.nest.net.np)
 
 ### 🌐 Portfolio Website
-🔗 [https://kushwahasuman.com.np/](https://kushwahasuman.com.np/)
+🔗 [Live Portfolio](https://kushwahasuman.com.np/)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codewith-suman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
