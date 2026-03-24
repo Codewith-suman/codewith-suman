@@ -1,61 +1,105 @@
-# 👋 Hi, I'm Suman Kushwaha
+<div align="center">
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:EEFF00,100:a82da8&text=Suman%20Kushwaha&fontAlign=50&fontAlignY=40&animation=twinkling&fontSize=80&desc=CSIT%20Student%20and%20Developer&descSize=20&descAlign=50&descAlignY=65"/>
-</p>
+![](https://komarev.com/ghpvc/?username=Codewith-suman&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-<p align="center">
-  💻 Web Developer | 📱 App & Game Developer | 🎓 IT Student from Nepal
-</p>
+</div>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:92FE9D&text=Suman%20Kushwaha&fontAlign=50&fontAlignY=40&animation=twinkling&fontSize=70&desc=Cybersecurity%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlign=50&descAlignY=65"/>
+</div>
 
-## 🌟 About Me
-- 🎓 Pursuing **Information Technology (IT)**
-- 🔭 Working on **Web & Game Development projects**
-- 🌱 Learning **C++, OOP, Recurrence Relations**, and more
-- 🌍 Languages: **English, Hindi, Nepali, Maithili, Bhojpuri**, some **Bengali**
-- ⚡ Curious & exploring new technologies 🚀
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Suman+Kushwaha+%F0%9F%91%8B;Cybersecurity+%26+AI+Enthusiast+%F0%9F%94%90;Laravel+Full+Stack+Developer+%F0%9F%92%BB;Building+Secure+%26+Smart+Applications+%F0%9F%9A%80;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🛠️ Skills & Tech Stack
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+## 🧑‍💻 About Me
+
+🔥 Passionate about **Cybersecurity & AI Engineering**  
+🔐 Focused on building **secure and scalable systems**  
+💻 Skilled **Laravel Full Stack Web Developer**  
+🌍 Based in **Nepal 🇳🇵**  
+🎓 Student of **Computer Science & IT**  
+🚀 Exploring **AI, Security, and Advanced Web Technologies**  
+💡 Love solving **real-world problems with code**  
+🎯 Goal: Become a **Cybersecurity Expert & AI Engineer**
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CDSQRJw2q/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kushwaha-suman)
-[![X (Twitter)](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sumankushwaha07)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sumankushwaha333/)
-[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kushwahasuman.com.np)
-</p>
+## 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,tailwind,php,laravel,mysql,git,github,vscode" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kushwaha-suman&show_icons=true&theme=transparent" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushwaha-suman&layout=compact&theme=transparent" />
-</p>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codewith-suman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</td>
+<td width="50%">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Codewith-suman&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Codewith-suman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## ✨ Profile Visitors
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Kushwaha-suman&style=for-the-badge&color=000" />
-</p>
+## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kushwahasuman.com.np/)
+[![GitHub](https://img.shields.io/badge/Main%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Codewith-suman)
+[![GitHub](https://img.shields.io/badge/Second%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kushwaha-suman)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suman.kushwaha.867629)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sumankushwaha333/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushwahasuman.com.np@gmail.com)
+
+</div>
+
+---
+
+## 💡 Current Focus
+
+- 🔐 Learning **Cybersecurity & Ethical Hacking**
+- 🧠 Exploring **AI & Machine Learning**
+- 💻 Building **Laravel Full Stack Applications**
+- 🚀 Developing **secure and scalable systems**
+
+---
+
+<div align="center">
+
+### 🎯 "Secure. Build. Innovate."
+
+🚀 Consistency + Security + Creativity = Growth
+
+</div>
+
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+</div>
+
+---
+
+<div align="center">
+<sub>💬 Open for collaboration in AI, Security & Web Projects</sub><br>
+<sub>🔥 Focused on building impactful and secure applications</sub>
+</div>
