@@ -79,16 +79,14 @@
 
 <div align="center">
 
+[![Main GitHub](https://img.shields.io/badge/Main%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kushwaha-suman)
+[![Second GitHub](https://img.shields.io/badge/Second%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Codewith-suman)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kushwahasuman.com.np/)
-[![GitHub](https://img.shields.io/badge/Main%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Codewith-suman)
-[![GitHub](https://img.shields.io/badge/Second%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kushwaha-suman)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suman.kushwaha.867629)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sumankushwaha333/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushwahasuman.com.np@gmail.com)
 
 </div>
-
----
 
 ## 💡 Current Focus
 
