@@ -2,15 +2,23 @@
 
 ![](https://komarev.com/ghpvc/?username=Codewith-suman&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
+![Followers](https://img.shields.io/github/followers/Codewith-suman?style=for-the-badge&color=blue)
+![Repo Stars](https://img.shields.io/github/stars/Codewith-suman/YOUR-REPO-NAME?style=for-the-badge&color=yellow)
+![Forks](https://img.shields.io/github/forks/Codewith-suman/YOUR-REPO-NAME?style=for-the-badge&color=green)
+
 </div>
+
+---
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:92FE9D&text=Suman%20Kushwaha&fontAlign=50&fontAlignY=40&animation=twinkling&fontSize=70&desc=Cybersecurity%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlign=50&descAlignY=65"/>
 </div>
 
+---
+
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Suman+Kushwaha+%F0%9F%91%8B;Cybersecurity+%26+AI+Enthusiast+%F0%9F%94%90;Laravel+Full+Stack+Developer+%F0%9F%92%BB;Building+Secure+%26+Smart+Applications+%F0%9F%9A%80;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Suman+Kushwaha+%F0%9F%91%8B;Cybersecurity+%26+AI%20Enthusiast+%F0%9F%94%90;Laravel+Full+Stack+Developer+%F0%9F%92%BB;Building+Secure+%26+Smart+Applications+%F0%9F%9A%80;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,12 +28,12 @@
 
 🔥 Passionate about **Cybersecurity & AI Engineering**  
 🔐 Focused on building **secure and scalable systems**  
-💻 Skilled **Laravel Full Stack Web Developer**  
-🌍 Based in **Nepal 🇳🇵**  
-🎓 Student of **Computer Science & IT**  
-🚀 Exploring **AI, Security, and Advanced Web Technologies**  
-💡 Love solving **real-world problems with code**  
-🎯 Goal: Become a **Cybersecurity Expert & AI Engineer**
+💻 Laravel Full Stack Developer  
+🌍 Based in Nepal 🇳🇵  
+🎓 Computer Science & IT Student  
+🚀 Exploring AI, Security, and Advanced Web Technologies  
+💡 Love solving real-world problems with code  
+🎯 Goal: Cybersecurity Expert & AI Engineer  
 
 ---
 
@@ -42,21 +50,27 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codewith-suman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</td>
-<td width="50%">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Codewith-suman&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Codewith-suman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</td>
-</tr>
-</table>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codewith-suman&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Codewith-suman&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codewith-suman&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codewith-suman&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
@@ -78,10 +92,10 @@
 
 ## 💡 Current Focus
 
-- 🔐 Learning **Cybersecurity & Ethical Hacking**
-- 🧠 Exploring **AI & Machine Learning**
-- 💻 Building **Laravel Full Stack Applications**
-- 🚀 Developing **secure and scalable systems**
+- 🔐 Cybersecurity & Ethical Hacking  
+- 🧠 AI & Machine Learning  
+- 💻 Laravel Full Stack Development  
+- 🚀 Secure and scalable systems  
 
 ---
 
@@ -89,9 +103,11 @@
 
 ### 🎯 "Secure. Build. Innovate."
 
-🚀 Consistency + Security + Creativity = Growth
+Consistency + Security + Creativity = Growth
 
 </div>
+
+---
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
