@@ -18,7 +18,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Suman+Kushwaha+%F0%9F%91%8B;Cybersecurity+%26+AI%20Enthusiast+%F0%9F%94%90;Laravel+Full+Stack+Developer+%F0%9F%92%BB;Building+Secure+%26+Smart+Applications+%F0%9F%9A%80;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Suman+Kushwaha+%F0%9F%91%8B;Cybersecurity+%26+AI%20Enthusiast+%F0%9F%94%90;Laravel+Full+Stack%20Developer+%F0%9F%92%BB;Building+Secure+%26+Smart+Applications+%F0%9F%9A%80;From+Nepal+%F0%9F%87%B3%F0%9F%87%B5)](https://git.io/typing-svg)
 
 </div>
 
@@ -51,15 +51,20 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codewith-suman&theme=tokyonight" />
-
-<br/>
-
+<table>
+<tr>
+<td width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Codewith-suman&theme=tokyonight" />
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codewith-suman&theme=tokyonight" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codewith-suman&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codewith-suman&theme=tokyonight" />
 
 </div>
 
@@ -87,6 +92,8 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushwahasuman.com.np@gmail.com)
 
 </div>
+
+---
 
 ## 💡 Current Focus
 
